@@ -1,6 +1,6 @@
 # ExecTrack
 
-**ExecTrack** is a simple yet powerful tool that helps you identify which programs are running on your system, providing detailed information.
+**ExecTrack** is a simple tool that helps you identify which programs are running on your system, providing detailed information.
 
 ## Features
  **Program/Process Monitoring** 
