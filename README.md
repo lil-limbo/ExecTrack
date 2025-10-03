@@ -11,7 +11,12 @@
 1. Install dependencies:  
    ```bash
   pip install -r requirements.txt
-  If your system blocks pip from modifying system-managed packages (PEP 668), use: (python3 -m pip install --break-system-packages -r requirements.txt)
+
+  
+  If your system blocks pip from modifying system-managed packages (PEP 668), use:
+  ```bash
+  python3 -m pip install --break-system-packages -r requirements.txt
+  ```
 2, Run the program: python ExecTrack.py or python3 ExecTrack.py
 Image
 then By simple choosing with number you can list the Program 
