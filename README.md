@@ -1,2 +1,23 @@
 # ExecTrack
-ExecTrack is a tool that helps you identify which programs are running on your system, providing detailed information.
+
+**ExecTrack** is a simple yet powerful tool that helps you identify which programs are running on your system, providing detailed information.
+
+## Features
+ **Program/Process Monitoring** 
+ **Simple System Monitoring Tools** 
+ **Security checks and system monitoring**
+
+## How To Use
+1. Install dependencies:  
+   ```bash
+  pip install -r requirements.txt
+  If your system blocks pip from modifying system-managed packages (PEP 668), use: (python3 -m pip install --break-system-packages -r requirements.txt)
+2, Run the program: python ExecTrack.py or python3 ExecTrack.py
+Image
+then By simple choosing with number you can list the Program 
+AND its Possible to Search using Port and File name 
+image
+## Additional commands:
+clear → remove past results
+Ctrl + C → quit the program 
+I hope this repo helps you explore and monitor your system easily! 🚀
