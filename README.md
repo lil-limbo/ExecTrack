@@ -7,7 +7,7 @@
  
  **Simple System Monitoring Tools** 
  
- **Security checks and system Network monitoring**
+ **System Network monitoring**
 
 ## How To Use
 1. Install dependencies:  
