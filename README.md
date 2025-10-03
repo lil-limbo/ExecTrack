@@ -3,8 +3,10 @@
 **ExecTrack** is a simple tool that helps you identify which programs are running on your system, providing detailed information.
 
 ## Features
- **Program/Process Monitoring** 
+ **Program/Process Monitoring**
+ 
  **Simple System Monitoring Tools** 
+ 
  **Security checks and system monitoring**
 
 ## How To Use
