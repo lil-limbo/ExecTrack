@@ -32,5 +32,7 @@ AND its Possible to Search using Port and File name
 image
 ## Additional commands:
 clear → remove past results
+
 Ctrl + C → quit the program 
+
 I hope this repo helps you explore and monitor your system easily! 🚀
