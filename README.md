@@ -26,13 +26,13 @@ python ExecTrack.py
    ```
 python3 ExecTrack.py
    ```
-[image alt](Image/1.png)
+![Program List](Image/1.png)
 
 then By simple choosing with number you can list the Program 
 
 **AND** its Possible to Search using Port and File name 
 
-[image alt](Image/2.png)
+![Search Example](Image/2.png)
 
 ## Additional commands:
 clear → remove past results
