@@ -20,7 +20,7 @@
    ```
 python ExecTrack.py
    ```
-   ## Or
+   **Or**
    ```
 python3 ExecTrack.py
    ```
